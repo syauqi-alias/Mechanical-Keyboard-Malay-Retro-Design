@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name keyswitch-kicad-library)(type KiCad)(uri "C:/Users/syauq/Documents/PCB/MTE1/Private Library/keyswitch-kicad-library")(options "")(descr ""))
+  (lib (name "Logo jawi")(type KiCad)(uri "C:/Users/syauq/Documents/PCB/MTE1/Private Library")(options "")(descr ""))
+  (lib (name spacebar)(type KiCad)(uri "C:/Users/syauq/Documents/PCB/MTE1/Private Library/MX_Alps_Hybrid-a4e473461a6d12d6f9cb20ae51e82b6ad10de9b1/MX_Alps_Hybrid-a4e473461a6d12d6f9cb20ae51e82b6ad10de9b1/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name CAM-M8Q-0)(type KiCad)(uri C:/Users/syauq/Documents/PCB/MTE0002/MTE0002-1a/CAM-M8Q-0)(options "")(descr ""))
+)
